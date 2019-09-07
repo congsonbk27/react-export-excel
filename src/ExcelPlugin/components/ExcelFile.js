@@ -34,7 +34,7 @@ class ExcelFile extends React.Component {
     hideElement: false,
     filename: "Download",
     fileExtension: "xlsx",
-    element: <button>Download</button>
+    element: <button>Xuất Excell</button>
   };
 
   constructor(props) {
