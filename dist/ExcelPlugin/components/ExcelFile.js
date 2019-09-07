@@ -186,7 +186,7 @@ ExcelFile.defaultProps = {
   element: _react2.default.createElement(
     "button",
     null,
-    "Download"
+    "Xuất Excell"
   )
 };
 
